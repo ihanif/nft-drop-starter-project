@@ -1,0 +1,19 @@
+{
+  "name": "SHEESH",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6Y91ihEaYUoAUnP1zqennv5qoekqWUM8ryNyUKTjUjJY",
+        "share": 100
+      }
+    ]
+  }
+}
